@@ -9,8 +9,8 @@
 7. OSI 7 layer와 각 계층
 8. HTTP Method와 각각이 사용되는 경우
 9. GET과 POST의 차이점
-10. 세션 기반 인증과 토큰 기반 인증의 차이점
+10. <a href="network/세션 기반 인증과 토큰 기반 인증의 차이점">세션 기반 인증과 토큰 기반 인증의 차이점</a>
 11. JWT 토큰
 12. 대칭키, 비대칭키 암호화 방식
-13. <a href="network/Connection Timeout과 Read Timeout의 차이점">Connection Timeout과 Read Timeout의 차이점
+13. <a href="network/Connection Timeout과 Read Timeout의 차이점">Connection Timeout과 Read Timeout의 차이점</a>
 14. 공인(public) IP와 사설(private) IP의 차이점
